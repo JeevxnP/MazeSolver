@@ -1,4 +1,4 @@
-This is the maze solve that I coded for coursework 2 of the "Introduction to Programming 2" course unit in first year of university (course code COMP16412). The structure and design of program was provided in the form of a UML diagram. This is my implementation of the design.
+This is the maze solver that I coded for coursework 2 of the "Introduction to Programming 2" course unit in first year of university (course code COMP16412). The structure and design of program was provided in the form of a UML diagram. This is my implementation of the design.
 
 # Where do I put my files?
 
